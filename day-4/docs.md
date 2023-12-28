@@ -3,3 +3,5 @@
 
 - random module.
 - data structures -> Lists
+- nested lists
+- .index function - returns the index of an item from a list
